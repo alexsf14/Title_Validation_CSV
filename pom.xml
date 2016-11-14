@@ -37,7 +37,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>core.Selenium_csv_file_try</mainClass>
+							<mainClass>core.Selenium_csv_file_throws</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
